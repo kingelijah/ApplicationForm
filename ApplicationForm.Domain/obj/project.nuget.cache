@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OU9GvGdFctA1F5F9PXLJeAObxb4sGTxMyn72esnkWwNCN9hjb2dLwuC4CGaobNgrHQNqBWcsmmfkzESH6Mgr4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm.Domain\\ApplicationForm.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ealeakhue\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}

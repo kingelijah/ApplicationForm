@@ -1,0 +1,15 @@
+C:\Users\ealeakhue\Desktop\ApplicationForm\ApplicationForm.Infrastructure\bin\Debug\net8.0\ApplicationForm.Infrastructure.deps.json
+C:\Users\ealeakhue\Desktop\ApplicationForm\ApplicationForm.Infrastructure\bin\Debug\net8.0\ApplicationForm.Infrastructure.dll
+C:\Users\ealeakhue\Desktop\ApplicationForm\ApplicationForm.Infrastructure\bin\Debug\net8.0\ApplicationForm.Infrastructure.pdb
+C:\Users\ealeakhue\Desktop\ApplicationForm\ApplicationForm.Infrastructure\bin\Debug\net8.0\ApplicationForm.Domain.dll
+C:\Users\ealeakhue\Desktop\ApplicationForm\ApplicationForm.Infrastructure\bin\Debug\net8.0\ApplicationForm.Domain.pdb
+C:\Users\ealeakhue\Desktop\ApplicationForm\ApplicationForm.Infrastructure\obj\Debug\net8.0\ApplicationForm.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ealeakhue\Desktop\ApplicationForm\ApplicationForm.Infrastructure\obj\Debug\net8.0\ApplicationForm.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ealeakhue\Desktop\ApplicationForm\ApplicationForm.Infrastructure\obj\Debug\net8.0\ApplicationForm.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ealeakhue\Desktop\ApplicationForm\ApplicationForm.Infrastructure\obj\Debug\net8.0\ApplicationForm.Infrastructure.AssemblyInfo.cs
+C:\Users\ealeakhue\Desktop\ApplicationForm\ApplicationForm.Infrastructure\obj\Debug\net8.0\ApplicationForm.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ealeakhue\Desktop\ApplicationForm\ApplicationForm.Infrastructure\obj\Debug\net8.0\Applicat.022AE90D.Up2Date
+C:\Users\ealeakhue\Desktop\ApplicationForm\ApplicationForm.Infrastructure\obj\Debug\net8.0\ApplicationForm.Infrastructure.dll
+C:\Users\ealeakhue\Desktop\ApplicationForm\ApplicationForm.Infrastructure\obj\Debug\net8.0\refint\ApplicationForm.Infrastructure.dll
+C:\Users\ealeakhue\Desktop\ApplicationForm\ApplicationForm.Infrastructure\obj\Debug\net8.0\ApplicationForm.Infrastructure.pdb
+C:\Users\ealeakhue\Desktop\ApplicationForm\ApplicationForm.Infrastructure\obj\Debug\net8.0\ref\ApplicationForm.Infrastructure.dll

@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB6141C-7686-4525-A737-89B059250A61}|ApplicationForm\\ApplicationForm.Presentation.csproj|c:\\users\\ealeakhue\\desktop\\applicationform\\applicationform\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB6141C-7686-4525-A737-89B059250A61}|ApplicationForm\\ApplicationForm.Presentation.csproj|solutionrelative:applicationform\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EB018D-B5F0-4C15-9D66-E1B96F95A429}|ApplicationForm.Application\\ApplicationForm.Application.csproj|c:\\users\\ealeakhue\\desktop\\applicationform\\applicationform.application\\services\\questionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EB018D-B5F0-4C15-9D66-E1B96F95A429}|ApplicationForm.Application\\ApplicationForm.Application.csproj|solutionrelative:applicationform.application\\services\\questionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EB018D-B5F0-4C15-9D66-E1B96F95A429}|ApplicationForm.Application\\ApplicationForm.Application.csproj|c:\\users\\ealeakhue\\desktop\\applicationform\\applicationform.application\\models\\candidateinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EB018D-B5F0-4C15-9D66-E1B96F95A429}|ApplicationForm.Application\\ApplicationForm.Application.csproj|solutionrelative:applicationform.application\\models\\candidateinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EB018D-B5F0-4C15-9D66-E1B96F95A429}|ApplicationForm.Application\\ApplicationForm.Application.csproj|c:\\users\\ealeakhue\\desktop\\applicationform\\applicationform.application\\models\\additionalquestiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EB018D-B5F0-4C15-9D66-E1B96F95A429}|ApplicationForm.Application\\ApplicationForm.Application.csproj|solutionrelative:applicationform.application\\models\\additionalquestiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB6141C-7686-4525-A737-89B059250A61}|ApplicationForm\\ApplicationForm.Presentation.csproj|c:\\users\\ealeakhue\\desktop\\applicationform\\applicationform\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CDB6141C-7686-4525-A737-89B059250A61}|ApplicationForm\\ApplicationForm.Presentation.csproj|solutionrelative:applicationform\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB6141C-7686-4525-A737-89B059250A61}|ApplicationForm\\ApplicationForm.Presentation.csproj|c:\\users\\ealeakhue\\desktop\\applicationform\\applicationform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CDB6141C-7686-4525-A737-89B059250A61}|ApplicationForm\\ApplicationForm.Presentation.csproj|solutionrelative:applicationform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB6141C-7686-4525-A737-89B059250A61}|ApplicationForm\\ApplicationForm.Presentation.csproj|c:\\users\\ealeakhue\\desktop\\applicationform\\applicationform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB6141C-7686-4525-A737-89B059250A61}|ApplicationForm\\ApplicationForm.Presentation.csproj|solutionrelative:applicationform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DABE3D-D8B6-4D0F-BD82-24F778FB1E2E}|ApplicationForm.Tests\\ApplicationForm.Tests.csproj|c:\\users\\ealeakhue\\desktop\\applicationform\\applicationform.tests\\questionrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3DABE3D-D8B6-4D0F-BD82-24F778FB1E2E}|ApplicationForm.Tests\\ApplicationForm.Tests.csproj|solutionrelative:applicationform.tests\\questionrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EB018D-B5F0-4C15-9D66-E1B96F95A429}|ApplicationForm.Application\\ApplicationForm.Application.csproj|c:\\users\\ealeakhue\\desktop\\applicationform\\applicationform.application\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EB018D-B5F0-4C15-9D66-E1B96F95A429}|ApplicationForm.Application\\ApplicationForm.Application.csproj|solutionrelative:applicationform.application\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EB018D-B5F0-4C15-9D66-E1B96F95A429}|ApplicationForm.Application\\ApplicationForm.Application.csproj|c:\\users\\ealeakhue\\desktop\\applicationform\\applicationform.application\\exceptions\\applicationformexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EB018D-B5F0-4C15-9D66-E1B96F95A429}|ApplicationForm.Application\\ApplicationForm.Application.csproj|solutionrelative:applicationform.application\\exceptions\\applicationformexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EB018D-B5F0-4C15-9D66-E1B96F95A429}|ApplicationForm.Application\\ApplicationForm.Application.csproj|c:\\users\\ealeakhue\\desktop\\applicationform\\applicationform.application\\models\\questiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EB018D-B5F0-4C15-9D66-E1B96F95A429}|ApplicationForm.Application\\ApplicationForm.Application.csproj|solutionrelative:applicationform.application\\models\\questiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EB018D-B5F0-4C15-9D66-E1B96F95A429}|ApplicationForm.Application\\ApplicationForm.Application.csproj|c:\\users\\ealeakhue\\desktop\\applicationform\\applicationform.application\\applicationformprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EB018D-B5F0-4C15-9D66-E1B96F95A429}|ApplicationForm.Application\\ApplicationForm.Application.csproj|solutionrelative:applicationform.application\\applicationformprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EB018D-B5F0-4C15-9D66-E1B96F95A429}|ApplicationForm.Application\\ApplicationForm.Application.csproj|c:\\users\\ealeakhue\\desktop\\applicationform\\applicationform.application\\interfaces\\iquestionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EB018D-B5F0-4C15-9D66-E1B96F95A429}|ApplicationForm.Application\\ApplicationForm.Application.csproj|solutionrelative:applicationform.application\\interfaces\\iquestionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B36785-284E-45EA-B223-9F0A4A067BBD}|ApplicationForm.Domain\\ApplicationForm.Domain.csproj|c:\\users\\ealeakhue\\desktop\\applicationform\\applicationform.domain\\repositories\\iquestionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B36785-284E-45EA-B223-9F0A4A067BBD}|ApplicationForm.Domain\\ApplicationForm.Domain.csproj|solutionrelative:applicationform.domain\\repositories\\iquestionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B36785-284E-45EA-B223-9F0A4A067BBD}|ApplicationForm.Domain\\ApplicationForm.Domain.csproj|c:\\users\\ealeakhue\\desktop\\applicationform\\applicationform.domain\\entities\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B36785-284E-45EA-B223-9F0A4A067BBD}|ApplicationForm.Domain\\ApplicationForm.Domain.csproj|solutionrelative:applicationform.domain\\entities\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B36785-284E-45EA-B223-9F0A4A067BBD}|ApplicationForm.Domain\\ApplicationForm.Domain.csproj|c:\\users\\ealeakhue\\desktop\\applicationform\\applicationform.domain\\entities\\candidateinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B36785-284E-45EA-B223-9F0A4A067BBD}|ApplicationForm.Domain\\ApplicationForm.Domain.csproj|solutionrelative:applicationform.domain\\entities\\candidateinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B36785-284E-45EA-B223-9F0A4A067BBD}|ApplicationForm.Domain\\ApplicationForm.Domain.csproj|c:\\users\\ealeakhue\\desktop\\applicationform\\applicationform.domain\\entities\\additionalquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B36785-284E-45EA-B223-9F0A4A067BBD}|ApplicationForm.Domain\\ApplicationForm.Domain.csproj|solutionrelative:applicationform.domain\\entities\\additionalquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955A22DA-058A-4F77-9AD1-CE6377572A2D}|ApplicationForm.Infrastructure\\ApplicationForm.Infrastructure.csproj|c:\\users\\ealeakhue\\desktop\\applicationform\\applicationform.infrastructure\\dbcontexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955A22DA-058A-4F77-9AD1-CE6377572A2D}|ApplicationForm.Infrastructure\\ApplicationForm.Infrastructure.csproj|solutionrelative:applicationform.infrastructure\\dbcontexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955A22DA-058A-4F77-9AD1-CE6377572A2D}|ApplicationForm.Infrastructure\\ApplicationForm.Infrastructure.csproj|c:\\users\\ealeakhue\\desktop\\applicationform\\applicationform.infrastructure\\data\\questionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955A22DA-058A-4F77-9AD1-CE6377572A2D}|ApplicationForm.Infrastructure\\ApplicationForm.Infrastructure.csproj|solutionrelative:applicationform.infrastructure\\data\\questionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB6141C-7686-4525-A737-89B059250A61}|ApplicationForm\\ApplicationForm.Presentation.csproj|c:\\users\\ealeakhue\\desktop\\applicationform\\applicationform\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CDB6141C-7686-4525-A737-89B059250A61}|ApplicationForm\\ApplicationForm.Presentation.csproj|solutionrelative:applicationform\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DABE3D-D8B6-4D0F-BD82-24F778FB1E2E}|ApplicationForm.Tests\\ApplicationForm.Tests.csproj|c:\\users\\ealeakhue\\desktop\\applicationform\\applicationform.tests\\applicationform.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B3DABE3D-D8B6-4D0F-BD82-24F778FB1E2E}|ApplicationForm.Tests\\ApplicationForm.Tests.csproj|solutionrelative:applicationform.tests\\applicationform.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EB018D-B5F0-4C15-9D66-E1B96F95A429}|ApplicationForm.Application\\ApplicationForm.Application.csproj|c:\\users\\ealeakhue\\desktop\\applicationform\\applicationform.application\\applicationform.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A7EB018D-B5F0-4C15-9D66-E1B96F95A429}|ApplicationForm.Application\\ApplicationForm.Application.csproj|solutionrelative:applicationform.application\\applicationform.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B36785-284E-45EA-B223-9F0A4A067BBD}|ApplicationForm.Domain\\ApplicationForm.Domain.csproj|c:\\users\\ealeakhue\\desktop\\applicationform\\applicationform.domain\\applicationform.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{78B36785-284E-45EA-B223-9F0A4A067BBD}|ApplicationForm.Domain\\ApplicationForm.Domain.csproj|solutionrelative:applicationform.domain\\applicationform.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB6141C-7686-4525-A737-89B059250A61}|ApplicationForm\\ApplicationForm.Presentation.csproj|c:\\users\\ealeakhue\\desktop\\applicationform\\applicationform\\applicationform.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CDB6141C-7686-4525-A737-89B059250A61}|ApplicationForm\\ApplicationForm.Presentation.csproj|solutionrelative:applicationform\\applicationform.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955A22DA-058A-4F77-9AD1-CE6377572A2D}|ApplicationForm.Infrastructure\\ApplicationForm.Infrastructure.csproj|c:\\users\\ealeakhue\\desktop\\applicationform\\applicationform.infrastructure\\applicationform.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{955A22DA-058A-4F77-9AD1-CE6377572A2D}|ApplicationForm.Infrastructure\\ApplicationForm.Infrastructure.csproj|solutionrelative:applicationform.infrastructure\\applicationform.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm\\Program.cs",
+              "RelativeDocumentMoniker": "ApplicationForm\\Program.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm\\Program.cs",
+              "RelativeToolTip": "ApplicationForm\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T07:50:15.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QuestionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm.Application\\Models\\QuestionDTO.cs",
+              "RelativeDocumentMoniker": "ApplicationForm.Application\\Models\\QuestionDTO.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm.Application\\Models\\QuestionDTO.cs",
+              "RelativeToolTip": "ApplicationForm.Application\\Models\\QuestionDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T08:04:08.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuestionService.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm.Application\\Services\\QuestionService.cs",
+              "RelativeDocumentMoniker": "ApplicationForm.Application\\Services\\QuestionService.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm.Application\\Services\\QuestionService.cs",
+              "RelativeToolTip": "ApplicationForm.Application\\Services\\QuestionService.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAowGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:46:28.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuestionRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm.Tests\\QuestionRepositoryTests.cs",
+              "RelativeDocumentMoniker": "ApplicationForm.Tests\\QuestionRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm.Tests\\QuestionRepositoryTests.cs",
+              "RelativeToolTip": "ApplicationForm.Tests\\QuestionRepositoryTests.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAkwDEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T09:18:41.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationFormProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm.Application\\ApplicationFormProfile.cs",
+              "RelativeDocumentMoniker": "ApplicationForm.Application\\ApplicationFormProfile.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm.Application\\ApplicationFormProfile.cs",
+              "RelativeToolTip": "ApplicationForm.Application\\ApplicationFormProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T08:08:50.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm.Application\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "ApplicationForm.Application\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm.Application\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "ApplicationForm.Application\\ServiceCollectionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T08:38:59.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationController.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm\\Controllers\\ApplicationController.cs",
+              "RelativeDocumentMoniker": "ApplicationForm\\Controllers\\ApplicationController.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm\\Controllers\\ApplicationController.cs",
+              "RelativeToolTip": "ApplicationForm\\Controllers\\ApplicationController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwA0AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T20:09:05.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdditionalQuestionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm.Application\\Models\\AdditionalQuestionDTO.cs",
+              "RelativeDocumentMoniker": "ApplicationForm.Application\\Models\\AdditionalQuestionDTO.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm.Application\\Models\\AdditionalQuestionDTO.cs",
+              "RelativeToolTip": "ApplicationForm.Application\\Models\\AdditionalQuestionDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:44:58.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CandidateInfoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm.Application\\Models\\CandidateInfoDTO.cs",
+              "RelativeDocumentMoniker": "ApplicationForm.Application\\Models\\CandidateInfoDTO.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm.Application\\Models\\CandidateInfoDTO.cs",
+              "RelativeToolTip": "ApplicationForm.Application\\Models\\CandidateInfoDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:44:24.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm\\appsettings.json",
+              "RelativeDocumentMoniker": "ApplicationForm\\appsettings.json",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm\\appsettings.json",
+              "RelativeToolTip": "ApplicationForm\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-16T07:54:37.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApplicationForm\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApplicationForm\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-16T07:57:52.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm.Domain\\Entities\\Question.cs",
+              "RelativeDocumentMoniker": "ApplicationForm.Domain\\Entities\\Question.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm.Domain\\Entities\\Question.cs",
+              "RelativeToolTip": "ApplicationForm.Domain\\Entities\\Question.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:49:33.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationFormException.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm.Application\\Exceptions\\ApplicationFormException.cs",
+              "RelativeDocumentMoniker": "ApplicationForm.Application\\Exceptions\\ApplicationFormException.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm.Application\\Exceptions\\ApplicationFormException.cs",
+              "RelativeToolTip": "ApplicationForm.Application\\Exceptions\\ApplicationFormException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T08:50:47.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CandidateInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm.Domain\\Entities\\CandidateInfo.cs",
+              "RelativeDocumentMoniker": "ApplicationForm.Domain\\Entities\\CandidateInfo.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm.Domain\\Entities\\CandidateInfo.cs",
+              "RelativeToolTip": "ApplicationForm.Domain\\Entities\\CandidateInfo.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:24:37.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IQuestionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm.Domain\\Repositories\\IQuestionRepository.cs",
+              "RelativeDocumentMoniker": "ApplicationForm.Domain\\Repositories\\IQuestionRepository.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm.Domain\\Repositories\\IQuestionRepository.cs",
+              "RelativeToolTip": "ApplicationForm.Domain\\Repositories\\IQuestionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:50:49.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IQuestionService.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm.Application\\Interfaces\\IQuestionService.cs",
+              "RelativeDocumentMoniker": "ApplicationForm.Application\\Interfaces\\IQuestionService.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm.Application\\Interfaces\\IQuestionService.cs",
+              "RelativeToolTip": "ApplicationForm.Application\\Interfaces\\IQuestionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T21:17:52.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdditionalQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm.Domain\\Entities\\AdditionalQuestion.cs",
+              "RelativeDocumentMoniker": "ApplicationForm.Domain\\Entities\\AdditionalQuestion.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm.Domain\\Entities\\AdditionalQuestion.cs",
+              "RelativeToolTip": "ApplicationForm.Domain\\Entities\\AdditionalQuestion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:26:36.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm.Infrastructure\\DbContexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ApplicationForm.Infrastructure\\DbContexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm.Infrastructure\\DbContexts\\AppDbContext.cs",
+              "RelativeToolTip": "ApplicationForm.Infrastructure\\DbContexts\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:53:15.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "QuestionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm.Infrastructure\\Data\\QuestionRepository.cs",
+              "RelativeDocumentMoniker": "ApplicationForm.Infrastructure\\Data\\QuestionRepository.cs",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm.Infrastructure\\Data\\QuestionRepository.cs",
+              "RelativeToolTip": "ApplicationForm.Infrastructure\\Data\\QuestionRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:51:49.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ApplicationForm\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm\\appsettings.Development.json",
+              "RelativeToolTip": "ApplicationForm\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-16T06:57:57.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationForm.Tests",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm.Tests\\ApplicationForm.Tests.csproj",
+              "RelativeDocumentMoniker": "ApplicationForm.Tests\\ApplicationForm.Tests.csproj",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm.Tests\\ApplicationForm.Tests.csproj",
+              "RelativeToolTip": "ApplicationForm.Tests\\ApplicationForm.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-15T09:17:35.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationForm.Application",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm.Application\\ApplicationForm.Application.csproj",
+              "RelativeDocumentMoniker": "ApplicationForm.Application\\ApplicationForm.Application.csproj",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm.Application\\ApplicationForm.Application.csproj",
+              "RelativeToolTip": "ApplicationForm.Application\\ApplicationForm.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-14T18:45:14.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApplicationForm.Domain",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm.Domain\\ApplicationForm.Domain.csproj",
+              "RelativeDocumentMoniker": "ApplicationForm.Domain\\ApplicationForm.Domain.csproj",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm.Domain\\ApplicationForm.Domain.csproj",
+              "RelativeToolTip": "ApplicationForm.Domain\\ApplicationForm.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-14T18:47:32.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApplicationForm.Presentation",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm\\ApplicationForm.Presentation.csproj",
+              "RelativeDocumentMoniker": "ApplicationForm\\ApplicationForm.Presentation.csproj",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm\\ApplicationForm.Presentation.csproj",
+              "RelativeToolTip": "ApplicationForm\\ApplicationForm.Presentation.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-14T18:54:17.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ApplicationForm.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm.Infrastructure\\ApplicationForm.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "ApplicationForm.Infrastructure\\ApplicationForm.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\ealeakhue\\Desktop\\ApplicationForm\\ApplicationForm.Infrastructure\\ApplicationForm.Infrastructure.csproj",
+              "RelativeToolTip": "ApplicationForm.Infrastructure\\ApplicationForm.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-14T18:49:10.919Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
